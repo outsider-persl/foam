@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fool
+server:
+  port: 9000
